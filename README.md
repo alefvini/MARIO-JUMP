@@ -1,6 +1,6 @@
 # MARIO-JUMP
 
-https://user-images.githubusercontent.com/116196987/209479974-722a5647-ce4b-4df9-9c07-98315b296116.mp4
+https://user-images.githubusercontent.com/116196987/209611351-ff9cfe56-1ae9-458e-88eb-f27dff110673.mp4
 
 # 🎮 Sobre o game:
 
